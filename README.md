@@ -19,3 +19,4 @@ https://github.com/Storj
 
 https://github.com/uport-project
 
+https://github.com/livepeer
